@@ -8,4 +8,12 @@ NetNinja's awesome tutorials
 
 To create a unordred list use <ul> and each list item will be <li>
 similarly for ordered list use <ol>
+  
+  ```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
